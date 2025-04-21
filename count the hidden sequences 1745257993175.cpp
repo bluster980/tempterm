@@ -1,0 +1,1 @@
+return max(0L, upper - lower - maxi + mini + 1);
