@@ -1,0 +1,1 @@
+int total = pow(3, m);
