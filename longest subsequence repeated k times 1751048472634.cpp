@@ -1,0 +1,1 @@
+s = "letsleetcode", k = 2
