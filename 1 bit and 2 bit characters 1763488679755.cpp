@@ -5,6 +5,6 @@ public:
             if(i == bits.size() - 1) return true;
             if(bits[i] == 1) i++;
         }
-        return false; 
+        return false;
     }
 };
