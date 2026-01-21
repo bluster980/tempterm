@@ -7,4 +7,4 @@ public:
         }
         return false;
     }
-};
+}; 
